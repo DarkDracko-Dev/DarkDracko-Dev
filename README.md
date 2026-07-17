@@ -26,7 +26,7 @@ Talleres, ejercicios y proyectos de la carrera, además de cosas propias que vay
 
 ### 📫 Contacto
 
-Dejalo abierto por ahora — lo vamos completando a medida que sumes redes o correo que quieras mostrar.
+Siempre abierto a aprender, colaborar y compartir conocimiento.
 
 <div align="center">
 
