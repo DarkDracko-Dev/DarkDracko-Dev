@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="DarkDracko-Dev_GitHub_Avatar_512.png" width="140" alt="DarkDracko-Dev avatar"/>
 
 # ¡Hola! Soy David 👋
 
